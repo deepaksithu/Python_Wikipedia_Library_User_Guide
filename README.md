@@ -50,6 +50,7 @@ Any bugs, requests, feedback, pull requests etc. are welcome! For any major chan
 ## Credits
 - _here's where any people who have contributed to this project are mentioned_
 - _as well as any other sources which deserve credit_
+- https://stackabuse.com/getting-started-with-pythons-wikipedia-api/
 
 ## Contact
 You can get in touch with me on LinkedIn [![LinkedIn Link](https://img.shields.io/badge/Connect-deepaksithu-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
