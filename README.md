@@ -43,6 +43,7 @@ _Finally, complete this section with another, more contextualized explanation of
 - _as well as a to-do list_
 - _for what needs to be done_
 - _and what steps need to be taken_
+- go through https://www.mediawiki.org/wiki/API:Tutorial
 
 ## Contribute
 Any bugs, requests, feedback, pull requests etc. are welcome! For any major changes, please open an issue first to discuss your ideas.
