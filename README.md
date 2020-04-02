@@ -1,4 +1,4 @@
-# :books: Python Wikipedia Library User Guide -  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deepaksithu/Music_Analysis_Winter_2020/master?filepath=Music_Analysis_Winter_2020.ipynb)
+# :books: Python Wikipedia Library User Guide -  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deepaksithu/Python_Wikipedia_Library_User_Guide/master?filepath=Python_Wikipedia_Library_User_Guide.ipynb)
 
 
 A simple user guide to the Python Wikipedia library.
