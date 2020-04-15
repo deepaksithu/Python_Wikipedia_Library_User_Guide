@@ -17,6 +17,7 @@ Simple user guide to the Python Wikipedia library.
 
 ## Overview
 
+This project is a reference guide to the methods and functions of the Python `wikipedia` library meant for personal use. It was made to facilitate future projects using the library. It may be expanded to include more complex example scenarios.
 
 _This is a more detailed description of Project Title. Go further here in explaining the purpose and process behind the creation of this project. Discuss the programs, APIs, libraries, and data sets used. Describe the structure of the data sets as well. With that context, go into the broader 'why' of the project. Then finally explain the project's current status and maintenance._
 
